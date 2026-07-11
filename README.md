@@ -630,15 +630,4 @@ curl "http://localhost:8080/weather?city=Atlanta"
 - [Course Resources](RESOURCES.md)
 - [Dan Vega's Newsletter](https://www.danvega.dev/newsletter)
 
-## 🤝 Connect & Learn More
-
-- **Website**: [danvega.dev](https://www.danvega.dev)
-- **Twitter**: [@therealdanvega](https://twitter.com/therealdanvega)  
-- **GitHub**: [danvega](https://github.com/danvega)
-- **LinkedIn**: [danvega](https://www.linkedin.com/in/danvega)
-
-## 🚀 Ready to Transform Your Development Career?
-
-This comprehensive workshop provides everything you need to build intelligent applications that users love and businesses need. Start building AI applications today and transform your Java development skills for the AI era!
-
 **Happy coding! 🎉**
